@@ -1,3 +1,6 @@
+USEFULL FOR SPOT AND TRADING. BUT IT REQUIRES BINANCE API KEY. FOR THE PEOPLE WANT TO USE THAT.
+TRADING RISE VOLUME AND THAT IS THE HEARTH OF CRYPTO.
+
 [![npm version](https://badge.fury.io/js/n8n-nodes-binancespottrade.svg)](https://badge.fury.io/js/n8n-nodes-binancespottrade)
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
